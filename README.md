@@ -6,23 +6,19 @@ This template serves as a starting point for Django projects. It includes the ne
 
 ### Step 1: Clone the Repository
 
-bash
-git clone https://github.com/shawn-carter/DjangoTemplate
+`git clone https://github.com/shawn-carter/DjangoTemplate`
 
 ### Step 2: Rename the Folder
 You can rename the cloned folder to whatever you like at this point. Use the following commands based on your operating system:
 
 Windows PowerShell:
 
-code
-move DjangoTemplate NewProject
+`move DjangoTemplate NewProject`
 
 Linux:
 
-code:
-mv DjangoTemplate NewProject
+`mv DjangoTemplate NewProject`
 
-Step 3: Navigate into the Project Folder
-bash
-Copy code
-cd NewProject
+### Step 3: Navigate into the Project Folder
+
+`cd NewProject`
