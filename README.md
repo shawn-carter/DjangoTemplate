@@ -88,7 +88,9 @@ Stage, Commit, and Push the Template:
 
 Additional Notes
 Static Files: If you need to run collectstatic, ensure that STATIC_ROOT is set in settings.py.
+
 jQuery: jQuery 3.7.1 is already included in this template for any JavaScript-related functionality.
+
 Modifying the NavBar: The default template includes a navbar with login/logout functionality. Modify it as needed based on your project requirements.
 
 This template is designed to make it easy to start new Django projects with a consistent setup. Enjoy building your applications!
