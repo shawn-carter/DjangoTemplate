@@ -18,5 +18,8 @@ Linux: source /venv/bin/activate
 *Install requirements
 pip install -r requirements.txt
 
+*Create a new Superuser
+python manage.py createsuperuser
+
 *Run server
 python manage.py runserver
