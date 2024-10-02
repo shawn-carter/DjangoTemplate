@@ -23,4 +23,17 @@ Linux:
 
 `cd NewProject`
 
-```bash # Create a virtual environment python -m venv venv # Activate the virtual environment venv\Scripts\activate ``
+### Step 4: Create a Virtual Environment
+Create a new virtual environment to keep dependencies isolated:
+
+`python -m venv venv`
+
+### Step 5: Activate the Virtual Environment
+
+Windows:
+
+`venv\Scripts\activate`
+Linux:
+
+`source venv/bin/activate`
+
