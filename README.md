@@ -53,7 +53,7 @@ Start the development server to ensure everything is working:
 
 `python manage.py runserver`
 
-###Optional: Setting Up Your Own Repository
+### Optional: Setting Up Your Own Repository
 If you want to create your own repository based on this template, follow these additional steps:
 
 Delete the Existing .git Folder:
