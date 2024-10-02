@@ -22,3 +22,5 @@ Linux:
 ### Step 3: Navigate into the Project Folder
 
 `cd NewProject`
+
+```bash # Create a virtual environment python -m venv venv # Activate the virtual environment venv\Scripts\activate ``
