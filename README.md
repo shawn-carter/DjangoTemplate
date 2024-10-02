@@ -33,6 +33,7 @@ Create a new virtual environment to keep dependencies isolated:
 Windows:
 
 `venv\Scripts\activate`
+
 Linux:
 
 `source venv/bin/activate`
