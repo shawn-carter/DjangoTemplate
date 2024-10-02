@@ -1,4 +1,4 @@
-*Clone the repo
+**Clone the repo
 git clone https://github.com/shawn-carter/DjangoTemplate
 
 *You can rename this folder to whatever you like at this point (we'll call it NewProject)
