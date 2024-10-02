@@ -81,7 +81,9 @@ Add the New GitHub Remote:
 Stage, Commit, and Push the Template:
 
 `git add .`
+
 `git commit -m "Initial commit based on DjangoTemplate"`
+
 `git push -u origin main`
 
 Additional Notes
