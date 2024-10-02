@@ -14,14 +14,12 @@ You can rename the cloned folder to whatever you like at this point. Use the fol
 
 Windows PowerShell:
 
-bash
-Copy code
+code
 move DjangoTemplate NewProject
 
 Linux:
 
-bash
-Copy code
+code:
 mv DjangoTemplate NewProject
 
 Step 3: Navigate into the Project Folder
