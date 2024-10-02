@@ -80,9 +80,9 @@ Add the New GitHub Remote:
 
 Stage, Commit, and Push the Template:
 
-`git add .
-git commit -m "Initial commit based on DjangoTemplate"
-git push -u origin main`
+`git add .`
+`git commit -m "Initial commit based on DjangoTemplate"`
+`git push -u origin main`
 
 Additional Notes
 Static Files: If you need to run collectstatic, ensure that STATIC_ROOT is set in settings.py.
