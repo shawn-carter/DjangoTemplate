@@ -1,25 +1,30 @@
-**Clone the repo
+# DjangoTemplate
+
+This template serves as a starting point for Django projects. It includes the necessary configurations and folder structure to quickly get up and running.
+
+## Getting Started
+
+### Step 1: Clone the Repository
+
+bash
 git clone https://github.com/shawn-carter/DjangoTemplate
 
-*You can rename this folder to whatever you like at this point (we'll call it NewProject)
-Windows PowerShell: move DjangoTemplate NewProject
-Linux: mv DjangoTemplate NewProject
+### Step 2: Rename the Folder
+You can rename the cloned folder to whatever you like at this point. Use the following commands based on your operating system:
 
-*cd into your folder
+Windows PowerShell:
+
+bash
+Copy code
+move DjangoTemplate NewProject
+
+Linux:
+
+bash
+Copy code
+mv DjangoTemplate NewProject
+
+Step 3: Navigate into the Project Folder
+bash
+Copy code
 cd NewProject
-
-*Create a virtual environment
-python -m venv venv
-
-*Activate the virtual environment
-Windows: venv\scripts\activate
-Linux: source /venv/bin/activate
-
-*Install requirements
-pip install -r requirements.txt
-
-*Create a new Superuser
-python manage.py createsuperuser
-
-*Run server
-python manage.py runserver
